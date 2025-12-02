@@ -1,6 +1,6 @@
 <!-- Banner / Branding -->
 <p align="center">
-  <img src="./banner.png" width="500"/>
+  <img src="banner.png" width="500"/>
 </p>
 
 <h1 align="center">Hi, I'm <b>Mejba Uddin Jihad</b></h1>
